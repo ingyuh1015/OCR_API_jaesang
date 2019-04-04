@@ -194,7 +194,7 @@ public final class OcrCaptureActivity extends AppCompatActivity {
             // download has not yet completed, then the above call will not detect any text,
             // barcodes, or faces.
             //
-            // isOperational() can be used to check if the required native libraries are currently
+            // isOperational() can be used to check if the required native libraries are curre ntly
             // available.  The detectors will automatically become operational once the library
             // downloads complete on device.
             Log.w(TAG, "Detector dependencies are not yet available.");

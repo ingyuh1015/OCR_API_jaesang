@@ -1,0 +1,4 @@
+#Thu Apr 04 14:12:37 KST 2019
+base.0=C\:\\Users\\lim\\AndroidStudioProjects\\OCR_API_jaesang\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

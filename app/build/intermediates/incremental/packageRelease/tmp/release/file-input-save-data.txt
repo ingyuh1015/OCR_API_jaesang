@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 03 17:00:55 KST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\lim\\AndroidStudioProjects\\OCR_API_jaesang\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

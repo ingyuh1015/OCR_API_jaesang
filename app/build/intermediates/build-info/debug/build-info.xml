@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="28"
-    build-mode="COLD"
+    abi="x86"
+    api-level="29"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.3.2"
-    timestamp="1554119354933"
+    timestamp="1554279547192"
     token="7175669149950324836"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,33 +23,103 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1554117825536"
+        timestamp="1554279547192"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -58,26 +128,50 @@
             location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\lim\AndroidStudioProjects\OCR_API_jaesang\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1554118439457"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\experiments\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1554119354933"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
